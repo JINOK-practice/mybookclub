@@ -6,4 +6,4 @@
 ![Generic badge](https://img.shields.io/badge/Bootstrap-blueviolet.svg)
 
 ## Description
-This project is a responsive web page with HTML, CSS, and Bootstrap that I learned. I focused on adjusting the layout of the web page according to the screen size of my book club users.
+This project is a responsive web page created by applying HTML, CSS, and bootstrap that I learned. I focused on making sure that the web page layout is displayed in the appropriate size depending on the screen size of the user.
