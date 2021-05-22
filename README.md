@@ -1,6 +1,9 @@
-## Welcome to GitHub Pages
+## My book club website
+[My Book Club](http://jwd-activity.github.io/mybookclub/)
 
-You can use the [editor on GitHub](https://github.com/JWD-activity/mybookclub/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+![Generic badge](https://img.shields.io/badge/HTML-blue.svg)
+![Generic badge](https://img.shields.io/badge/CSS-brightgreen.svg) 
+![Generic badge](https://img.shields.io/badge/Bootstrap-blueviolet.svg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+## Description
+This project is a responsive web page with HTML, CSS, and Bootstrap that I learned. I focused on adjusting the layout of the web page according to the screen size of my book club users.
