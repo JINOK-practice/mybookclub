@@ -1,6 +1,7 @@
 ## My book club website
-[My Book Club](http://jwd-activity.github.io/mybookclub/)
+http://jwd-activity.github.io/mybookclub/
 
+## Technologies used
 ![Generic badge](https://img.shields.io/badge/HTML-blue.svg)
 ![Generic badge](https://img.shields.io/badge/CSS-brightgreen.svg) 
 ![Generic badge](https://img.shields.io/badge/Bootstrap-blueviolet.svg)
